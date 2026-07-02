@@ -73,4 +73,4 @@ Ongoing monitoring requirements:
 **Assessed by:** _______________ **Date:** _______________ **Next review:** _______________
 
 ---
-*AI-TPRM Toolkit | CC BY 4.0 | Aderonke Thompson | github.com/aderonkethoms/ai-tprm-toolkit*
+*AI-TPRM Toolkit | CC BY 4.0 | Aderonke Thompson | github.com/aderonkethompsonphd/ai-tprm-toolkit*
