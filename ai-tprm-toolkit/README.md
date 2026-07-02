@@ -81,7 +81,7 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 You are free to use, adapt, and redistribute this toolkit with attribution.
 
-**Attribution:** A. F. Thompson — AI-TPRM Toolkit — github.com/aderthom/ai-tprm-toolkit
+**Attribution:** Aderonke Thompson — AI-TPRM Toolkit — github.com/aderonkethoms/ai-tprm-toolkit
 
 ---
 
