@@ -87,11 +87,11 @@ You are free to use, adapt, and redistribute this toolkit with attribution.
 
 ## Author
 
-**Aderonke Thompson, PhD**
-ISO 27001 Lead Implementer / Lead Auditor | ISO 42001 AI Management Systems Practitioner
-ERCIM Postdoctoral Fellow, VTT Technical Research Centre of Finland (2022–2024)
+**Aderonke Thompson, PhD** AI Governance, Risk and compliance 
+ISO 27001 Lead Implementer / Lead Auditor | ISO 42001 AI Management Systems 
+Former ERCIM Postdoctoral Fellow, VTT Technical Research Centre of Finland (2022–2024)
 
-[ORCID: 0000-0003-2182-1505](https://orcid.org/0000-0003-2182-1505) | [LinkedIn](https://linkedin.com/in/aderonke-thompson)
+[LinkedIn](https://linkedin.com/in/aderonke-thompson)
 
 ---
 
